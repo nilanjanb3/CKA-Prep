@@ -14,7 +14,7 @@ This is an in-progress repo to prepare for CKA.
     * [09-Kube Proxy](https://medium.com/@amroessameldin/kube-proxy-what-is-it-and-how-it-works-6def85d9bc8f)
     * [10-Pods](https://kubernetes.io/docs/concepts/workloads/pods/)
     * [11-Replica Set](https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/)
-    * []()
+    * [12-]()
     * []()
     * []()
     * []()
