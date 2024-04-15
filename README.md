@@ -24,7 +24,7 @@ This is an in-progress repo to prepare for CKA.
     * [19-HeadLess Service](https://kodekloud.com/blog/kubernetes-headless-service/)
     * [20-External Name Service](https://kubernetes.io/docs/concepts/services-networking/service/#externalname)
     * [21-Namespaces in K8s](https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces/)
-    * [22-Imperative vs Declairative Commands](https://kubeops.net/blog/imperative-vs-declarative)
+    * [22-Imperative vs Declarative Commands](https://kubeops.net/blog/imperative-vs-declarative)
     * [23-DNS for Service in K8s](https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/)
     * [24-Kubectl Apply Command](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#apply)
 * 02-Scheduling
