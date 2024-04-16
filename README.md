@@ -1,13 +1,10 @@
 # CKA-Prep
 This is an in-progress repo to prepare for CKA.
 
+> Note: For playing with Kubernetes we all need a local cluster. After carefully using and analyzing all the options such as Minikube, KinD, K3S, K3D etc. I mostly prefer using WSL as a Windows User, on top of it I have Docker installed (As Docker Desktop is not completely free). Finally on top of WSL K3D works awesome 😎. Pretty much you can expect like a production grade performance. Those who also wanna try Load Balancers can use Metal LB.
+> 
 ### Table of Contents
-* 01-Introduction
-    * [01-What is Kubernetes?](https://kubernetes.io/docs/concepts/overview/)
-    * [02-Why CKA?](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
-    * [03-CKA Roadmap Official](https://training.linuxfoundation.org/wp-content/uploads/2023/07/CKA_CurriculumPath_Jul23.pdf)
-    * [04-Kubestronaut Program](https://www.cncf.io/training/kubestronaut/)
-* 02-Core Concepts
+* 01-Core Concepts
     * [01-Cluster Architecture](https://kubernetes.io/docs/concepts/architecture/)
     * [02-Kubernetes Components](https://kubernetes.io/docs/concepts/overview/components/)
     * [03-Docker vs ContainerD](https://kodekloud.com/blog/docker-vs-containerd/)
@@ -32,7 +29,7 @@ This is an in-progress repo to prepare for CKA.
     * [22-Imperative vs Declarative Commands](https://kubeops.net/blog/imperative-vs-declarative)
     * [23-DNS for Service in K8s](https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/)
     * [24-Kubectl Apply Command](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#apply)
-* 03-Scheduling
+* 02-Scheduling
     * [01-Scheduler in K8s](https://kubernetes.io/docs/concepts/scheduling-eviction/kube-scheduler/)
     * [02-Assigning Pods to Nodes](https://kubernetes.io/docs/concepts/scheduling-eviction/assign-pod-node/)
     * [03-Schedule using nodeName Property](https://kubernetes.io/docs/concepts/scheduling-eviction/assign-pod-node/#nodename)
@@ -49,10 +46,9 @@ This is an in-progress repo to prepare for CKA.
     * [14-DeamonSet in K8s](https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/)
     * [15-Static Pods in K8s](https://kubernetes.io/docs/tasks/configure-pod-container/static-pod/)
     * [16-Multiple Scheduler in K8s](https://kubernetes.io/docs/tasks/extend-kubernetes/configure-multiple-schedulers/)
-    * [17-Pod Priority - PriorityClass - Preemption](https://devopscube.com/pod-priorityclass-preemption/)
-    * [18-Scheduling Profiles](https://kubernetes-docsy-staging.netlify.app/docs/reference/scheduling/profiles/)
-    * [19-Configuring Scheduler Profiles](https://kubernetes.io/docs/reference/scheduling/config/)
-* 04-Logging and Monitoring
+    * []()
+    * []()
+    * []()
     * []()
     * []()
     * []()
