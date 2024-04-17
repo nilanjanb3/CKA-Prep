@@ -55,7 +55,7 @@ This is an in-progress repo to prepare for CKA.
     * [18-Scheduling Profiles](https://kubernetes-docsy-staging.netlify.app/docs/reference/scheduling/profiles/)
     * [19-Configuring Scheduler Profiles](https://kubernetes.io/docs/reference/scheduling/config/)
 * 04-Logging and Monitoring
-    * [01-Monittoring in Kubernetes](https://kubernetes.io/docs/tasks/debug/debug-cluster/resource-metrics-pipeline/)
+    * [01-Monitoring in Kubernetes](https://kubernetes.io/docs/tasks/debug/debug-cluster/resource-metrics-pipeline/)
     * [02-Deploying Metrics Server](https://github.com/kubernetes-sigs/metrics-server?tab=readme-ov-file#installation)
     * [03-Kubectl Top Commands](https://kubernetes.io/docs/reference/kubectl/generated/kubectl_top/)
     * [04-Kubectl Logs Commands](https://spacelift.io/blog/kubectl-logs)
