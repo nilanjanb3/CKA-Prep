@@ -1,8 +1,8 @@
 # CKA-Prep
 This is an in-progress repo to prepare for CKA.
-> Note: For playing with Kubernetes we all need a local cluster. After carefully using and analyzing all the options such as Minikube, KinD, K3S, K3D etc.
+> **Note:** For playing with Kubernetes we all need a local cluster. After carefully using and analyzing all the options such as Minikube, KinD, K3S, K3D etc.
 > I mostly prefer using WSL as a Windows User, on top of it I have Docker installed (As Docker Desktop is not completely free). Finally on top of WSL K3D works awesome 😎.
-> Pretty much you can expect like a production grade performance. Those who also wanna try Load Balancers can use Metal LB.
+> Pretty much you can expect a production like performance. Those who also wanna try Load Balancers can use Metal LB.
 ### Table of Contents
 * 01-Introduction
     * [01-What is Kubernetes?](https://kubernetes.io/docs/concepts/overview/)
