@@ -65,7 +65,7 @@ This is an in-progress repo to prepare for CKA.
     * [03-Some Other Deployment Strategies](https://codefresh.io/learn/kubernetes-deployment/top-6-kubernetes-deployment-strategies-and-how-to-choose/)
     * [04-Application Lifecycle Management in K8s](https://medium.com/the-techlife/application-life-cycle-management-kubernetes-4a52a6f8e5d8)
     * [05-CMD vs ENTRYPOINT in Dockerfile](https://kodekloud.com/blog/docker-entrypoint-cmd/)
-    * [06-Command Entrypoint Usage and Differences](https://yuminlee2.medium.com/kubernetes-command-and-arguments-in-pod-c3f1be61ba1a)
+    * [06-Command, Entrypoint Usage and Differences](https://yuminlee2.medium.com/kubernetes-command-and-arguments-in-pod-c3f1be61ba1a)
     * []()
     * []()
     * []()
