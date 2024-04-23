@@ -93,9 +93,9 @@ This is an in-progress repo to prepare for CKA.
     * [13-Operating ETCD Cluster for K8s](https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/)
     * [14-Disaster Recovery with Kubernetes Cluster](https://www.youtube.com/watch?v=qRPNuT080Hk)
 * 07-Security
-    * []()
-    * []()
-    * []()
+    * [01-Security in K8s](https://kubernetes.io/docs/concepts/security/)
+    * [02-Authentication in Cluster](https://kubernetes.io/docs/reference/access-authn-authz/authentication/)
+    * [03-Basic AuthN - Deprecated](https://www.linkedin.com/pulse/how-set-up-basic-authentication-kubernetes-tahmid-ul-muntakim/)
     * []()
     * []()
     * []()
