@@ -161,10 +161,11 @@ This is an in-progress repo to prepare for CKA.
     * [07-Install K8s Cluster from Scratch](https://www.youtube.com/playlist?list=PL2We04F3Y_41jYdadX55fdJplDvgNGENo)
     * [08-ETCD Docs for HA Configuration](https://etcd.io/docs/v3.4/op-guide/clustering/)
 * 11-Install K8s the Kubeadm Way
-    * []()
-    * []()
-    * []()
-    * []()
+    * [01-Installing Kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/)
+    * [02-Creating Cluster through Kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/)
+    * [03-Deploying Flannel on K8s](https://kubernetes.io/docs/concepts/cluster-administration/addons/)
+    * [04-Flannel Args](https://github.com/flannel-io/flannel/blob/master/Documentation/configuration.md)
+* 12-E2E Test on Kubernetes
     * []()
     * []()
     
