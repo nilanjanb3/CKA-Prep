@@ -175,31 +175,11 @@ This is an in-progress repo to prepare for CKA.
 * 14-Other Topics
     * [01-Structure of YAML](https://www.freecodecamp.org/news/what-is-yaml-the-yml-file-format/)
     * [02-JSON Path](https://support.smartbear.com/alertsite/docs/monitors/api/endpoint/jsonpath.html)
-    * [03-Kubectl Quick Referrence](https://kubernetes.io/docs/reference/kubectl/quick-reference/)
+    * [03-Kubectl Quick Reference](https://kubernetes.io/docs/reference/kubectl/quick-reference/)
     * [04-kubectl with JSON Path](https://kubernetes.io/docs/reference/kubectl/jsonpath/)
     * [05-`--sort-by` with kubectl](https://faun.pub/sorting-output-in-kubernetes-aa4db6894629)
     * [06-`--custom-columns` with kubectl](https://techiescamp.com/courses/devops-tips/lessons/kubectl-custom-columns/)
-* 15-Lightning Labs
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
-    * []()
+* [15-Scenarios](./SCENARIOS.md)
     
     
     
